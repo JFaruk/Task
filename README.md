@@ -1,3 +1,3 @@
 # Task
 
-Task of Neamul Sir
+Task of Niamul Sir

@@ -7,7 +7,7 @@
 		 $sum +=$i;}
 	 }
 	 
-	 echo "Summation of all Odd number between 1 to 50 is". $sum. "</br>";
+	 echo "Summation of all Odd number between 1 to 50 is ". $sum. "</br>";
 
 
 ?>

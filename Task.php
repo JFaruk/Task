@@ -115,19 +115,19 @@
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>DIVINE IT LTD &copy; 2017.    &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
-            <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/bootstrap-transition.js"></script>
-    <script src="assets/js/bootstrap-alert.js"></script>
-    <script src="assets/js/bootstrap-modal.js"></script>
-    <script src="assets/js/bootstrap-dropdown.js"></script>
-    <script src="assets/js/bootstrap-scrollspy.js"></script>
-    <script src="assets/js/bootstrap-tab.js"></script>
-    <script src="assets/js/bootstrap-tooltip.js"></script>
-    <script src="assets/js/bootstrap-popover.js"></script>
-    <script src="assets/js/bootstrap-button.js"></script>
-    <script src="assets/js/bootstrap-collapse.js"></script>
-    <script src="assets/js/bootstrap-carousel.js"></script>
-    <script src="assets/js/bootstrap-typeahead.js"></script>
+            <script src="picture/js/jquery.js"></script>
+    <script src="picture/js/bootstrap-transition.js"></script>
+    <script src="picture/js/bootstrap-alert.js"></script>
+    <script src="picture/js/bootstrap-modal.js"></script>
+    <script src="picture/js/bootstrap-dropdown.js"></script>
+    <script src="picture/js/bootstrap-scrollspy.js"></script>
+    <script src="picture/js/bootstrap-tab.js"></script>
+    <script src="picture/js/bootstrap-tooltip.js"></script>
+    <script src="picture/js/bootstrap-popover.js"></script>
+    <script src="picture/js/bootstrap-button.js"></script>
+    <script src="picture/js/bootstrap-collapse.js"></script>
+    <script src="picture/js/bootstrap-carousel.js"></script>
+    <script src="picture/js/bootstrap-typeahead.js"></script>
     <script>
       !function ($) {
         $(function(){
@@ -136,6 +136,6 @@
         })
       }(window.jQuery)
     </script>
-    <script src="../assets/js/holder/holder.js"></script>
+    <script src="../picture/js/holder/holder.js"></script>
     </body>
 </html>

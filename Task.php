@@ -113,7 +113,8 @@
         </div>
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>DIVINE IT LTD &copy; 2017.    &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p>DIVINE IT LTD &copy; 2017.    &middot; <a href="#">Privacy</a></p>
+		<p>&middot; <a href="#">Terms</a></p>
       </footer>
             <script src="picture/js/jquery.js"></script>
     <script src="picture/js/bootstrap-transition.js"></script>
